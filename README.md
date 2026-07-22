@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/chhetri-deepika/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/chhetri-deepika/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/chhetri-deepika/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/chhetri-deepika/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
